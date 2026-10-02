@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SentinelBlade</title>
+  <desc id="desc">A cyan sword inside a silver shield on a dark navy background.</desc>
+  <rect width="512" height="512" fill="#0B1426"/>
+  <path d="M256 34 413 93v126c0 108-67 181-157 231-90-50-157-123-157-231V93L256 34Z" fill="none" stroke="#C9D1D9" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M256 70 285 193 256 222 227 193 256 70Z" fill="#00D1FF"/>
+  <path d="M256 222v129" fill="none" stroke="#C9D1D9" stroke-width="16" stroke-linecap="round"/>
+  <path d="M196 210h120l-17 25h-86l-17-25Z" fill="#C9D1D9"/>
+  <path d="M256 350 232 382l24 33 24-33-24-32Z" fill="#00D1FF"/>
+  <circle cx="256" cy="222" r="11" fill="#00D1FF"/>
+  <text x="256" y="478" text-anchor="middle" fill="#C9D1D9" font-family="sans-serif" font-size="25" font-weight="700" letter-spacing="3">SENTINELBLADE</text>
+</svg>
