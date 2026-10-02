@@ -1,5 +1,6 @@
-![SentinelBlade logo](assets/logo.svg)
-
+<p align="center">
+  <img src="assets/logo.svg" alt="SentinelBlade logo" width="700"/>
+</p>
 # SentinelBlade
 
 **Forge your defense.** SentinelBlade is a small, defensive command-line toolkit for file verification, integrity monitoring, authorized TCP port checks, and password-strength feedback. It is written for Python 3.10+ and uses only the Python standard library at runtime.
